@@ -7,7 +7,7 @@
 
 * Upload ATIVIDADE.md.
 
-## Insert any character and show a mensage
+## Insert any character and show a message
 
 ```
 #include <stdio.h>
@@ -20,7 +20,6 @@ scanf("%s",s);
 
 printf("Char: %s",s);
 
-getch();
 return 0;
 }
  
